@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peyush007" alt="peyush007" /></a> </p>
 
-- 🔭 I’m currently working on **Spring boot application**
+- 🔭 I’m currently working on **Spring Boot application**
 
 - 💬 Ask me about **Java,Spring**
 
